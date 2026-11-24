@@ -1,3 +1,15 @@
+# API de agendamento de consultas médicas
+
+## Contexto
+
+Desafio técnico de back-end da Blue Health Tech. O escopo proposto inclui autenticação JWT, agendamento, geração de PDF, visualização por link único, alteração e cancelamento de consultas. Os critérios técnicos incluem Symfony, Doctrine e MVC.
+
+## Status
+
+A raiz do repositório contém apenas o README; não há código de implementação disponível para validação. Os requisitos abaixo representam o enunciado original.
+
+## Material original
+
 # Desafio de Backend - API de Marcação de Consultas
 
 Bem-vindo ao desafio de backend da Blue Health Tech! Este desafio é uma oportunidade para demonstrar suas habilidades de desenvolvimento de API, compreensão de conceitos de backend, e capacidade de aplicar boas práticas de engenharia de software.
